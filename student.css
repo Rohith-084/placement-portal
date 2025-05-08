@@ -52,3 +52,46 @@
     padding: 60px 20px;
     text-align: center;
   }
+  .form-hero h1 {
+    font-size: 2.5rem;
+    margin-bottom: 10px;
+  }
+
+  .form-hero p {
+    font-size: 1.1rem;
+    margin-top: 10px;
+  }
+
+  /* Form Section */
+  .form-section {
+    padding: 40px 20px;
+  }
+
+  .student-form {
+    max-width: 600px;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  }
+
+  .form-group {
+    margin-bottom: 20px;
+  }
+
+  .form-group label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 8px;
+  }
+
+  .form-group input,
+  .form-group textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    font-size: 1rem;
+  }
+
